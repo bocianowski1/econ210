@@ -58,7 +58,7 @@ Er et bestemt beløp per individ og påvirker ikke de relative prisene (nøytral
 - har inntektseffekt og substitusjonseffekt
 - tilbyder og etterspørrer møter ulike priser
 - skaper effektivitetstap
-- skatte inntekter er mindre enn konsumentoverskudd + tap av produsentoverskudd: $I=KO^\div+PO^\div$
+- skatteinntekter er mindre enn tap av konsumentoverskudd + tap av produsentoverskudd: $I < KO^\div+PO^\div$
 
 ## Elastisitet & Samfunnsøkonomisk Effektivitetstap
 
